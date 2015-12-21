@@ -5,4 +5,4 @@ Hi! Welcome to the companion reference to my lynda.com Github for Web Designers 
 
 
 sfdsfsldfklsjfklsdjflksjd
-##[click this linl](htp:www.google.com)
+##[click this link](http//:www.google.com)
